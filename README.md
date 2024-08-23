@@ -4,8 +4,8 @@
 
 *Qian Zhang, De Yu, Xinru Zhou, Hanmeng Gong, Zheng Li, Yiming Liu, Ruirui Shao* 
 
-[[Mathematics]](https://doi.org/10.3390/math12152389)
-[[License: Apache License 2.0]](https://github.com/LanXiaoPang613/SMR/blob/main/LICENSE)
+[Mathematics](https://doi.org/10.3390/math12152389)
+[License: Apache License 2.0](https://github.com/LanXiaoPang613/SMR/blob/main/LICENSE)
 
 </h5>
 
